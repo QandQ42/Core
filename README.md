@@ -1,14 +1,14 @@
 # How to use this repository
-Go to the Question & Question discussions.
+Go to the [Question & Question discussions](https://github.com/QandQ42/Core/discussions).
 They are there to get you further on your learning journey!
 
 ### There are two parts
-1. the ones who ask questions
-2. the others who answer with questions
+1. the ones who **ask questions**
+2. the others who **answer with questions**
 
 ### Rules for someone who asks a question
-1. Search if anyone else asked the same question before you
-2. If you cannot find a similar question -> ask your question in the Q&Q discussions
+1. **Search** if anyone else asked the same question before you
+2. If you cannot find a similar question -> **ask your question** in the according Q&Q discussion
 
 ### Rules for someone who responds with a question
 1. Do **NOT** respond with the solution directly
