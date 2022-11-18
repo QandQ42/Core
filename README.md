@@ -1,6 +1,19 @@
 # How to use this repository
+Go to the Question & Question discussions. They are there to get you further on your learning journey!
 
-## For all the different repositories
+### There are two parts
+1. the ones who ask questions
+2. the others who answer with questions
+
+### Rules for someone who asks a question
+1. Search if anyone else asked the same question before you
+2. If you cannot find a similar question -> ask your question in the Q&Q discussions
+
+### Rules for someone who responds with a question
+1. Do **NOT** respond with the solution directly
+2. Reply with a question that guides towards the right answer
+
+## For all the different projects
 ### Libft
 ### ft_printf
 ### get_next_line
@@ -35,14 +48,3 @@
 ### Exam Rank 05
 ### ft_transcendence
 ### Exam Rank 06
-
-This Question & Question discussion is there to get you further on your learning journey!
-There are two parts the one who asks a question & the others who answer with a question.
-
-The rules for someone who asks a question:
-### 1. Search if anyone else asked the same question before you.
-### 2. If you cannot find a similar question -> ask your question here.
-
-The rules for someone who responds with a question:
-### 1. Do NOT respond with the solution directly.
-### 2. Reply with a question that guides towards the right answer.
