@@ -7,8 +7,8 @@ They are there to get you further on your learning journey!
 2. the others who **answer with questions**
 
 ### Rules for someone who asks a question
-1. **Search** if anyone else asked the same question before you
-2. If you cannot find a similar question -> **ask your question** in the according Q&Q discussion
+1. **Search** for similar questions
+2. If there is **NO** similar question -> **ask your question**
 
 ### Rules for someone who responds with a question
 1. Do **NOT** respond with the solution directly
