@@ -15,9 +15,9 @@ They are there to get you further on your learning journey!
 2. Reply with a question that guides towards the right answer
 
 ## All CORE projects
-### Libft
-### ft_printf
-### get_next_line
+### [Libft](https://github.com/QandQ42/Core/discussions/1)
+### [ft_printf](https://github.com/QandQ42/Core/discussions/2)
+### [get_next_line](https://github.com/QandQ42/Core/discussions/3)
 ### Born2beroot
 ### push_swap
 ### fract-ol
