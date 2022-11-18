@@ -1,5 +1,6 @@
 # How to use this repository
-Go to the Question & Question discussions. They are there to get you further on your learning journey!
+Go to the Question & Question discussions.
+They are there to get you further on your learning journey!
 
 ### There are two parts
 1. the ones who ask questions
