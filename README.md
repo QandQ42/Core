@@ -18,34 +18,34 @@ They are there to get you further on your learning journey!
 ### [Libft](https://github.com/QandQ42/Core/discussions/1)
 ### [ft_printf](https://github.com/QandQ42/Core/discussions/2)
 ### [get_next_line](https://github.com/QandQ42/Core/discussions/3)
-### Born2beroot
-### push_swap
-### fract-ol
-### FdF
-### so_long
-### minitalk
-### pipex
-### Exam Rank 02
-### Philosophers
-### minishell
-### Exam Rank 03
-### NetPractice
-### cub3d
-### miniRT
-### CPP00
-### CPP01
-### CPP02
-### CPP03
-### CPP04
-### CPP05
-### CPP06
-### CPP07
-### CPP08
-### Exam Rank 04
-### ft_containers
-### inception
-### webserv
-### ft_irc
-### Exam Rank 05
-### ft_transcendence
-### Exam Rank 06
+### [Born2beroot](https://github.com/QandQ42/Core/discussions/4)
+### [push_swap](https://github.com/QandQ42/Core/discussions/3)
+### [fract-ol](https://github.com/QandQ42/Core/discussions/3)
+### [FdF](https://github.com/QandQ42/Core/discussions/3)
+### [so_long](https://github.com/QandQ42/Core/discussions/3)
+### [minitalk](https://github.com/QandQ42/Core/discussions/3)
+### [pipex](https://github.com/QandQ42/Core/discussions/3)
+### [Exam Rank 02](https://github.com/QandQ42/Core/discussions/3)
+### [Philosophers](https://github.com/QandQ42/Core/discussions/3)
+### [minishell](https://github.com/QandQ42/Core/discussions/3)
+### [Exam Rank 03](https://github.com/QandQ42/Core/discussions/3)
+### [NetPractice](https://github.com/QandQ42/Core/discussions/3)
+### [cub3d](https://github.com/QandQ42/Core/discussions/3)
+### [miniRT](https://github.com/QandQ42/Core/discussions/3)
+### [CPP00](https://github.com/QandQ42/Core/discussions/3)
+### [CPP01](https://github.com/QandQ42/Core/discussions/3)
+### [CPP02](https://github.com/QandQ42/Core/discussions/3)
+### [CPP03](https://github.com/QandQ42/Core/discussions/3)
+### [CPP04](https://github.com/QandQ42/Core/discussions/3)
+### [CPP05](https://github.com/QandQ42/Core/discussions/3)
+### [CPP06](https://github.com/QandQ42/Core/discussions/3)
+### [CPP07](https://github.com/QandQ42/Core/discussions/3)
+### [CPP08](https://github.com/QandQ42/Core/discussions/3)
+### [Exam Rank 04](https://github.com/QandQ42/Core/discussions/3)
+### [ft_containers](https://github.com/QandQ42/Core/discussions/3)
+### [inception](https://github.com/QandQ42/Core/discussions/3)
+### [webserv](https://github.com/QandQ42/Core/discussions/3)
+### [ft_irc](https://github.com/QandQ42/Core/discussions/3)
+### [Exam Rank 05](https://github.com/QandQ42/Core/discussions/3)
+### [ft_transcendence](https://github.com/QandQ42/Core/discussions/3)
+### [Exam Rank 06](https://github.com/QandQ42/Core/discussions/3)
