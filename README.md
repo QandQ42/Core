@@ -14,7 +14,7 @@ They are there to get you further on your learning journey!
 1. Do **NOT** respond with the solution directly
 2. Reply with a question that guides towards the right answer
 
-## For all CORE projects
+## All CORE projects
 ### Libft
 ### ft_printf
 ### get_next_line
